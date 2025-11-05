@@ -1,5 +1,4 @@
-# UAS Flutter - Brutalism UI
-
+# UAS Flutter
 Proyek Flutter bergaya brutalism: Login, Dashboard, Profil (+ Data & Pengaturan dummy).
 
 ## Identitas Mahasiswa
